@@ -57,4 +57,4 @@ I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
 <code><img height="42" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"></code>
 <code><img height="42" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg"></code>
 
-![Kritagya's github stats](https://github-readme-stats.vercel.app/api?username=kritagyakhandelwal31e&show_icons=true&hide_border=true&theme=dark)
+![Kritagya's github stats](https://github-readme-stats.vercel.app/api?username=kritagyakhandelwal314e&show_icons=true&hide_border=true&theme=dark)
