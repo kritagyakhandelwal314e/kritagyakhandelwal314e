@@ -32,7 +32,7 @@ I am full-stack developer(MERN and Django). Anything comes in my way I learn it.
 
 ### **About me:**
 - 🔭 I’m currently working at 314e Corporation as a Software Engineer.
-- 🌱 I’m currently learning python to its core, fast API, Linux and Bash.
+- 🌱 I’m currently learning python to its core, fast API, Linux and Bash, Docker, K8s.
 - 💬 Ask me about anything, will see how it goes...
 - 📫 How to reach me: kritagya.khandelwal@314ecorp.com
 - ⚡ Fun fact: star you are looking at night, may be not any more...
